@@ -34,3 +34,8 @@
 *.exe
 *.out
 *.app
+
+# Compilation files
+ROM4FOAM/src/MOR/lnInclude
+ROM4FOAM/src/MOR/Make/linux*
+ROM4FOAM/applications/*/*/Make/linux*
